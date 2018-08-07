@@ -184,6 +184,9 @@
     #testmonialCaro{
         width: 100%;
     }
+    #testmonialCarot{
+        width: 100%;
+    }
     .blogDec {
         padding: 40px 10px 35px 10px;
     }
@@ -490,6 +493,9 @@
     #testmonialCaro{
         width: 100%;
     }
+     #testmonialCarot{
+        width: 100%;
+    }
     .singleWork{
         margin: 0;
     }
@@ -514,6 +520,10 @@
         padding-right: 0;
     }
     #testmonialCaro {
+        padding: 100px 15px 29px;
+        text-align: center;
+    }
+    #testmonialCarot {
         padding: 100px 15px 29px;
         text-align: center;
     }
@@ -575,6 +585,9 @@
         margin-bottom: 100px;
     }
     #testmonialCaro.owl-theme .owl-dots{
+        right: 0;
+    }
+     #testmonialCarot.owl-theme .owl-dots{
         right: 0;
     }
     .showit{

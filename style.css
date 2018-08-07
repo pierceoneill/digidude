@@ -1,0 +1,93 @@
+.blogDate{
+    color: #fd0060;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 20px;
+}
+.blogThumb img{
+    width: 100%;
+    height: auto;
+}
+.blogTitle{
+    margin-bottom: 28px;
+    min-height: 108px;
+}
+
+.blogMore{
+    font-size: 15px;
+    line-height: .8;
+    color: #ffffff;
+    font-weight: 600;
+}
+.blogMore:hover{
+    color: #fd0060;
+    
+    text-transform: uppercase;
+}
+.post_feed{
+    margin-bottom: 10px;
+    min-height: 108px;
+    
+}
+
+.item .thumb{
+      background-size: cover;
+      width: 120px;
+      height: 120px;
+      float: left;
+      margin-right: 10px;
+      border: 1px solid #ddd;
+      border-radius: 3px;
+      padding: 5px;
+    }
+
+.more{
+    margin-top: 20px;
+    
+}
+    .item{color:#888;}
+    
+    
+.desc{
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 300;
+    line-height: 50px;
+    margin-bottom:21px;
+    }
+    .post_feed{
+    background: #fff;
+    margin: 0 7.5px;
+}
+.blogDec{
+    padding: 61px 30px 45px 41px;   
+}
+.blogDate{
+    color: #fd0060;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 20px;
+}
+.blogThumb img{
+    width: 100%;
+    height: auto;
+}
+.blogTitle{
+    margin-bottom: 28px;
+    min-height: 108px;
+}
+.bperaDiv {
+    min-height: 182px;
+}
+.blogTitle a{
+    font-size: 38px;
+    color: #fd0060;
+}
+.blogTitle a:hover{
+    color: #a10059;
+}
+.blogDec p:last-of-type{
+    margin-bottom: 39px;
+}
